@@ -1,0 +1,12 @@
+/* IMAGEM DOS CELULARES */
+.galeria {
+    text-align: center;
+    margin: 25px auto;
+}
+
+.galeria img {
+    width: 500px;
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
+}
